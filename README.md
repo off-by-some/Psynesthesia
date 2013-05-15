@@ -16,7 +16,7 @@ Wavtorgb
 Current problems:
 =================
 
-For some reason, only certain WAV types are readable. currently i have been using audio-recorder to record sounds and save them into a WAV format.
+For some reason, only certain WAV types are readable. currently i have been using audio-recorder to record stereo sounds and save them into a WAV format.
 
 Audio-recorder is easily attained by executing the following commands on a debian flavored distro:
 
