@@ -50,7 +50,7 @@ while len(data) == chunk*swidth:
         # find the frequency and output it
         thefreq = (which+x1)*RATE/chunk
         thefreq = which*RATE/chunk
-  print "the previous freq is "+str(thefreq)
+  	print "the previous freq is "+str(thefreq)
 	while thefreq < 350 and thefreq > 15:
 		global thefreq
 		thefreq = thefreq*2
