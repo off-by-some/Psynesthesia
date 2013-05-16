@@ -32,3 +32,5 @@ TODO:
 Add the ability to convert sound to color via other means than just a recorded WAV file (i.e, Live audio from your microphone)
 
 Take off Debugging prints (too lazy to at the moment)
+
+Add filters to sound, and add additional screens for bass, treble, and beat. (black and white?)
